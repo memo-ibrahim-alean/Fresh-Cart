@@ -1,6 +1,6 @@
 # Fresh Cart
 
-![fresh cart-logo](/Fresh-Cart/src/assets/screens/logo.png)
+![fresh cart-logo](https://github.com/memo-ibrahim-alean/Fresh-Cart/blob/main/src/assets/screens/logo.png)
 
 
 
